@@ -1,0 +1,848 @@
+﻿stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
+S02077,Cataraqui Centre Transfer Point Platform 1,44.2552010994405,-76.572360014543,0
+00799,Norwest Road (east side of Midland),44.2572158575058,-76.5740033704788,0
+00842,O'Connor Drive (east side of Gardiners),44.2596911173314,-76.5684796124697,0
+00841,Norris Court (east side of Gardiners),44.2631049826742,-76.5686205122621,0
+00848,640 Cataraqui Woods Drive (south side),44.2669140547514,-76.5671206545085,0
+00849,Clyde Court (south side of Cataraqui Woods),44.2681555822492,-76.5633735246957,0
+00850,Centennial Drive (south side of Cataraqui Woods),44.2692642565817,-76.5593270771206,0
+00851,Atkinson Street (west side of Centennial),44.2672529350967,-76.5593290049583,0
+00852,Emerald Street (south side of Crossfield),44.2642880883068,-76.5575592499227,0
+00856,1341 Crossfield Avenue (south side),44.264301750809,-76.5547081455589,0
+09074,Augusta Drive (south side of Crossfield),44.264359921217,-76.5516890678555,0
+09075,Crossfield Avenue (west side of Andersen),44.2648334149272,-76.5489715710283,0
+00858,Chadwick Parkette (west side of Andersen),44.2620697338134,-76.5484930481762,0
+00006,Sheridan Street (west side of Andersen),44.2603931855411,-76.5491042565555,0
+S00399,Kingston Gospel Temple (south side of Princess),44.257987998426,-76.5483420901001,0
+00407,Vanguard Court (east side of Waterloo),44.2525790724904,-76.5478005353362,0
+00406,Friarhill Crescent (north side of Waterloo),44.2540789302439,-76.5521865338088,0
+00403,Uxbridge Crescent (north side of Waterloo),44.2544087581337,-76.5554708149285,0
+00586,Centennial Drive (north side of Davis),44.2563101090491,-76.5597688034178,0
+00583,Muirfield Crescent (north side of Davis),44.2562993802131,-76.5616087149829,0
+00589,745 Davis Drive (north side),44.2560258787126,-76.5642872359604,0
+00582,649 Davis Drive (west side),44.2539401259274,-76.5670277830214,0
+00591,Bigham Court (south side of Davis),44.2528860177845,-76.5641964599491,0
+00593,Whistler Terrace (south side of Davis),44.2522645834834,-76.5619754232467,0
+00595,Bexley Gate (south side of Davis),44.2516928538681,-76.5605974383653,0
+00697,Littlestone Crescent (south side of Davis),44.2515789438039,-76.5578625909985,0
+00410,Centennial Drive (south side of Davis),44.2516356054694,-76.5559513494373,0
+00050,Trillium Ridge (west side of Edgar),44.2505170404911,-76.5529332775623,0
+00098,Bexley Gate (north side of Taylor-Kidd),44.2512528877706,-76.5612985007466,0
+00815,RioCan Centre (north side of Taylor-Kidd),44.2509798891843,-76.5648022200913,0
+00404,Gardiners Road (north side of Taylor-Kidd),44.2508052941412,-76.5680154226721,0
+00618,Blackburn Mews (north side of Taylor-Kidd),44.2506867740304,-76.5706088673324,0
+00619,780 Old Colony Road (east side),44.2506240773946,-76.5752904955298,0
+00094,Kimberley Street (east side of Old Colony),44.2520157247782,-76.5769384615124,0
+00096,Ridley Drive (east side of Old Colony),44.2538409680129,-76.577244065702,0
+00635,Sutton Mills Court (east side of Ridley),44.2555705737323,-76.5758622251452,0
+00736,Norwest Road (east side of Ridley),44.2571066413075,-76.5768953785301,0
+00634,Midland Avenue (south side of Norwest),44.2573197931052,-76.5741727687419,0
+00097,Norwest Road (west side of Midland),44.2570554278791,-76.5742095652968,0
+S02078,Cataraqui Centre Transfer Point Platform 2,44.2549824994058,-76.5723478607834,0
+S00503,Kingston Centre Transfer Point Platform 6,44.2418143618852,-76.5167875774205,0
+00111,257 Bath Road (north side),44.2401299346239,-76.5232789423317,0
+01017,277 Bath Road (north side),44.2398789804429,-76.5260263625533,0
+00508,Portsmouth Avenue (north side of Bath),44.2394972685725,-76.5298610832543,0
+00509,Grenville Road (north side of Bath),44.2390278819949,-76.5336434170604,0
+02063,258 Queen Mary Road (west side),44.2377976700664,-76.5360183455051,0
+02065,204 Queen Mary Road (west side),44.2357635498047,-76.5349035523833,0
+00507,Queen Mary Road (south side of Robert Wallace),44.2344152368606,-76.5328661631793,0
+00504,Polson Park School (south side of Robert Wallace),44.2347513511777,-76.5295515395702,0
+00503,Miles Avenue (south side of Robert Wallace),44.2346016503871,-76.528359297663,0
+00497,Ross Street (west side of Robert Wallace),44.2334598675371,-76.5277687925846,0
+00494,Richardson Drive (west side of Robert Wallace),44.231535634026,-76.5281947609038,0
+00492,Johnson Street (west side of Robert Wallace),44.2303363513202,-76.5281361714006,0
+00491,Portsmouth Avenue (south side of Johnson),44.2299931123853,-76.5267399977893,0
+00467,Nickle Avenue (west side of Portsmouth),44.2270408384502,-76.5258760750294,0
+S02070,St. Lawrence College Transfer Point,44.2237240355462,-76.5264214016498,0
+00751,Baiden Street (west side of Portsmouth),44.221508782357,-76.5253075305373,0
+02069,Beechgrove (south side of King),44.2204660736025,-76.5229595080019,0
+02068,Mowat Avenue (south side of King),44.220636645332,-76.5207668021322,0
+00455,Yonge Street (south side of Union),44.2222071625293,-76.5172842051835,0
+S02009,Queen's West Campus (south side of Union),44.2230314388872,-76.514470903203,0
+S00413,Sir John A Macdonald Blvd. (south side of King),44.2211163416505,-76.5120319370181,0
+00415,Livingston Avenue (south side of King),44.2213546391577,-76.5089244302363,0
+S00417,The Isabel/Tett Centres (south side of King),44.2215237021447,-76.5065475739539,0
+00420,Beverley Street (south side of King),44.2221628222615,-76.5019065979869,0
+00423,Albert Street (south side of King),44.2224561888725,-76.4995215274394,0
+00424,Lower University Avenue (south side of King),44.222917277366,-76.4942925609649,0
+00324,George Street (south side of King),44.2226330470294,-76.4913094416261,0
+00322,Maitland Street (south side of King),44.2239129636437,-76.487950058654,0
+00316,Ontario Street (west side of West),44.2245210707188,-76.4861249830575,0
+00314,Lower Union Street (east side of Ontario),44.2250899504871,-76.4843989815564,0
+00311,Earl Street (east side of Ontario),44.2266949173063,-76.48289677687,0
+00309,Johnson Street (east side of Ontario),44.2285139579326,-76.4812020398677,0
+00305,City Hall (north side of Brock),44.2303626704961,-76.4803393743933,0
+S02037,Downtown Transfer Point Platform 3,44.2310778982938,-76.4847435615957,0
+00303,Wellington Street (south side of Johnson),44.229458346963,-76.483977874741,0
+00304,King Street (south side of Johnson),44.228900698945,-76.4827556256206,0
+00310,William Street (west side of Ontario),44.2274399008602,-76.4824485126884,0
+00312,Gore Street (west side of Ontario),44.225935600698,-76.4838229771704,0
+00313,Lower Union Street (west side of Ontario),44.2248860187829,-76.4847844652832,0
+00315,King Street (east side of West),44.2247643973679,-76.4861047826708,0
+00321,Maitland Street (north side of King),44.2238599900157,-76.488354401663,0
+00323,Barrie Street (north side of King),44.2227866873146,-76.4908475987614,0
+00425,Lower University Avenue (north side of King),44.2230004258454,-76.4952999819071,0
+00422,Albert Street (north side of King),44.2225845996291,-76.4996187575162,0
+00421,Beverley Street (north side of King),44.2222441267223,-76.5020238608123,0
+S00411,The Isabel/Tett Centres (north side of King),44.2216273862869,-76.50694957003,0
+00414,Alwington Avenue (north side of King),44.2214120551944,-76.5101615991444,0
+00412,Sir John A Macdonald Blvd (north side of King),44.2212433274836,-76.5122993197293,0
+S00444,Queen's West Campus (north side of Union),44.2233701515943,-76.5139751136304,0
+00456,Yonge Street (north side of Union),44.2220253590495,-76.5180295240135,0
+00055,Mowat Avenue (north side of Union),44.2210659664125,-76.5198288671673,0
+00458,McDonald Avenue (north side of King),44.2206509783864,-76.5224648080767,0
+00459,Portsmouth Avenue (north side of King),44.2205526586622,-76.5247057098896,0
+00460,Baiden Street (east side of Portsmouth),44.2215768434108,-76.5251377131791,0
+00464,Calderwood Drive (east side of Portsmouth),44.2244531773031,-76.5254185907543,0
+00465,KFL&A Health Unit (east side of Portsmouth),44.2270629666746,-76.5257013961673,0
+00490,Portsmouth Avenue (north side of Johnson),44.2301382031292,-76.5266560949386,0
+00493,Johnson Street (east side of Robert Wallace),44.230320006609,-76.5279454831035,0
+00495,Richardson Drive (east side of Robert Wallace),44.2314819898457,-76.5280319005252,0
+00496,Strachan Avenue (east side of Robert Wallace),44.2331971786917,-76.5274864900858,0
+00502,Miles Avenue (north side of Robert Wallace),44.23469401896,-76.5282552782447,0
+00505,Polson Park School (north side of Robert Wallace),44.2348537780345,-76.5296368673445,0
+02067,Queen Mary Road (north side of Robert Wallace),44.2344857286662,-76.5330483019353,0
+02066,211 Queen Mary Road (east side),44.2359163518995,-76.5347872953863,0
+02064,Notch Hill Road (east side of Queen Mary),44.2372603900731,-76.5355347935111,0
+02062,Grenville Road (south side of Bath),44.2388630937785,-76.5335139166564,0
+02061,Portsmouth Avenue (south side of Bath),44.2392142955214,-76.5303509216756,0
+02060,290 Bath Road (south side),44.2397405114025,-76.5260090120137,0
+02008,Lafleur Park (south side of Bath),44.2399798147381,-76.5233263839037,0
+00521,Country Club Drive (north side of King),44.2203773092479,-76.5293357055635,0
+S00523,Trailhead Place (north side of King),44.2201539315284,-76.5382585767657,0
+S00524,Invista (north side of Front),44.2190219555051,-76.5595199447126,0
+00535,Sunny Acres Road (north side of Front),44.2187570035458,-76.564674479887,0
+00536,Bishop Street (north side of Front),44.2186156846583,-76.5671056509019,0
+09043,Reddendale Plaza (north side of Front),44.2184362281114,-76.5704696439207,0
+00546,Evelyn Street (east side of Lakeview),44.221088429913,-76.5717871114612,0
+00716,Hyde Street (east side of Lakeview),44.2229109071196,-76.5719620417804,0
+00549,Meadowcrest Road (east side of Lakeview),44.2238542903215,-76.5720347128809,0
+00551,278 Lakeview Avenue (east side),44.2254972271622,-76.5721773728729,0
+00803,Henderson Boulevard (east side of Lakeview),44.2280246224255,-76.5724224597216,0
+00567,Henderson Boulevard (east side of McEwen),44.2285007145256,-76.5736121032388,0
+00555,Acron Street (east side of McEwen),44.2316270805896,-76.5738995186985,0
+00557,Castell Road (east side of McEwen),44.2354122642428,-76.5742684062571,0
+00559,Bath Road (east side of McEwen),44.2374369129539,-76.5744075458498,0
+S02074,Gardiners Centre Transfer Point,44.2361830640585,-76.5677785500885,0
+00612,Development Drive (east side of Gardiners),44.2416928242892,-76.5675892028958,0
+00614,660 Progress Avenue (north side),44.246695060283,-76.5692839398981,0
+00607,740 Progress Avenue (north side),44.2472031712532,-76.5741633810104,0
+00039,Taylor-Kidd Boulevard (east side of Progress),44.248204054311,-76.5781642310322,0
+00692,Milford Drive (north side of Taylor-Kidd),44.2481172177941,-76.5807947237045,0
+00632,Pembridge Crescent (north side of Taylor-Kidd),44.2492540553213,-76.5854244679213,0
+S02003,Bayridge Centre (east side of Bayridge),44.2507591098547,-76.5893290098757,0
+S00662,Old Colony Road (east side of Bayridge),44.2552997544408,-76.5865777339787,0
+00641,Woodbine Road (east side of Bayridge),44.2587613966316,-76.5838584769518,0
+09057,Princess Street east of Bayridge (south side),44.2592747882009,-76.5813730750234,0
+00740,2697 Princess Street (south side),44.258622340858,-76.5768620185555,0
+00741,2698 Princess Street (north side),44.2588252667338,-76.5765705797822,0
+00739,Princess Street east of Bayridge Dr. (north side),44.2594746127725,-76.5813107136638,0
+00642,Woodbine Road (west side of Bayridge),44.2580003198237,-76.5842665079982,0
+S00090,Old Colony Road (west side of Bayridge),44.2552958987654,-76.5868570189924,0
+S02004,Bayridge Centre (west side of Bayridge),44.2517501860857,-76.5892141778023,0
+09054,Bayridge Drive (south side of Taylor-Kidd),44.2501734662801,-76.5892944764347,0
+02002,Pembridge Crescent (south side of Taylor-Kidd),44.2490321863443,-76.5854560676963,0
+00100,Milford Drive (south side of Taylor-Kidd),44.2479658406228,-76.5817788429559,0
+00040,775 Progress Avenue (south side),44.2475635092706,-76.5778014622629,0
+00606,745 Progress Avenue (south side),44.2470827233047,-76.574215264991,0
+00615,Gardiners Road (south side of Progress),44.2465406656266,-76.5683980565519,0
+09208,RioCan Centre (west side of Gardiners),44.2445529811085,-76.5679945517332,0
+09228,Development Drive (west side of Gardiners),44.2420177906752,-76.5679234731943,0
+S02075,Gardiners Centre Transfer Point,44.2359041981399,-76.567896315828,0
+00558,Bath Road (west side of McEwen),44.2370056640357,-76.574606448412,0
+00556,Castell Road (west side of McEwen),44.2356488853693,-76.5744787920267,0
+00554,Acron Street (west side of McEwen),44.2313732765615,-76.5740267559887,0
+00568,Henderson Boulevard (west side of McEwen),44.2283578868956,-76.5737835969777,0
+00717,Henderson Boulevard (west side of Lakeview),44.2276393063367,-76.5725499484689,0
+00550,279 Lakeview Avenue (west side),44.2254878394306,-76.5723348688335,0
+00718,McEwen Drive (west side of Lakeview),44.2240209225566,-76.5722257364542,0
+00754,Hyde Street (west side of Lakeview),44.2229079734534,-76.5721097309143,0
+00547,Evelyn Street (west side of Lakeview),44.2214225325734,-76.5719725191594,0
+S09037,Centre 70 Park and Ride (west side of Days),44.2190669663251,-76.5694498177619,0
+00537,Bishop Street (south side of Front),44.2184190452099,-76.5673257596792,0
+00534,Sunny Acres Road (south side of Front),44.2185363080353,-76.5652119275183,0
+S00033,Invista (south side of Front),44.2188660521061,-76.5592679847033,0
+S00034,Trailhead Place (south side of King),44.2199080064893,-76.538267210126,0
+02072,1000 King Street West (south side),44.2198580503464,-76.535222567618,0
+00520,Lake Ontario Park (south side of King),44.22015552409,-76.5292886830867,0
+09053,Bayridge Centre (north side of Taylor-Kidd),44.2506786435843,-76.59025747329,0
+00672,Strand Boulevard (north side of Taylor-Kidd),44.2512191087008,-76.5925029013307,0
+09004,Mona Drive (north side of Taylor-Kidd),44.2516875732691,-76.6014276165516,0
+09005,Aylmer Crescent (west side of Collins Bay),44.2494660336525,-76.6107475385071,0
+09006,Edwin Street (west side of Collins Bay),44.2468300927431,-76.6105415951461,0
+09049,Bath Road (west side of Collins Bay),44.2416348215193,-76.6101330611856,0
+00008,Station Street (north side of Bath),44.2399949859828,-76.6131627839059,0
+00019,Sycamore Street (north side of Bath),44.2360093072057,-76.6209217440338,0
+00021,Homeward Avenue (north side of Bath),44.231802681461,-76.6251913178713,0
+00023,Maple Ridge Drive (north side of Bath),44.2280503548682,-76.6275245882571,0
+00025,Coronation Boulevard (north side of Bath),44.2250729352236,-76.6291728056968,0
+00793,The Moorings (north side of Bath),44.2216031625867,-76.6336441319437,0
+S00794,Loyalist Avenue (east side of Fairfield),44.2214415594936,-76.6368871740998,0
+00795,Addington Street (east side of Loyalist),44.2230988293887,-76.6357687767596,0
+00796,Henry Crescent (east side of Loyalist),44.2256398871541,-76.6358028911055,0
+00765,Fairfield Boulevard (north side of Amherst),44.226263333112,-76.63903914392,0
+00766,Upper Park Road (north side of Amherst),44.2261049151421,-76.6424790769816,0
+00767,Pittsfield Street (north side of Amherst),44.2271154373885,-76.6465175617487,0
+00768,Manitou Crescent (north side of Amherst),44.2275965586305,-76.6508004628123,0
+00780,Kildare Avenue (west side of Manitou),44.2231098935008,-76.6509555280209,0
+00774,Briscoe Street (west side of Manitou),44.2210939619691,-76.6496534831823,0
+00775,Loyalist Plaza (south side of Manitou),44.2194888275117,-76.6455262340606,0
+00776,Sherwood Avenue (south side of Manitou),44.2200453020633,-76.6434585861862,0
+00873,Briscoe Street (east side of Sherwood),44.2227498907596,-76.6445792466403,0
+09060,117 Sherwood Avenue (north side),44.225620944053,-76.6466411110014,0
+09061,Amherst Drive (east side of Manitou),44.2271013557911,-76.6510470584036,0
+00797,282 Amherst Drive (north side),44.2274264898152,-76.6546470858157,0
+02019,Helen Henderson Centre (north side of Amherst),44.2261726409197,-76.6590354312212,0
+00866,Amherst Drive (west side of Pratt),44.2219666857273,-76.6674880776555,0
+00867,Kildare Avenue (west side of Pratt),44.2198324017227,-76.666107075289,0
+00868,Davey Crescent (south side of Kidd),44.2173956148327,-76.6592207551003,0
+00869,Jordyn's Court (south side of Kidd),44.2191003262997,-76.6539143398405,0
+00782,Kildare Avenue (east side of Kidd),44.2222737986595,-76.6550410352648,0
+00871,Kildare Avenue (east side of Pratt),44.2199919093401,-76.6656634211541,0
+00872,Amherst Drive (east side of Pratt),44.2221080884338,-76.6671152506024,0
+00007,W. J. Henderson Recreation Centre,44.2259400431067,-76.6589325014503,0
+00785,286 Amherst Drive (south side),44.22718282789,-76.6548769176007,0
+00787,Pittsfield Street (south side of Amherst),44.2268418520689,-76.6466989461333,0
+00788,Upper Park Road (south side of Amherst),44.2258827947081,-76.6425906401128,0
+00789,Fairfield Boulevard (south side of Amherst),44.2260313220323,-76.6392042674125,0
+00790,Henry Crescent (west side of Loyalist),44.2260237783194,-76.6363431047649,0
+00791,Addington Street (west side of Loyalist),44.2231254838407,-76.636168928817,0
+S00792,Loyalist Avenue (west side of Fairfield),44.2213071975857,-76.6370875854046,0
+00777,The Moorings (south side of Bath),44.2214622627944,-76.633552601561,0
+00024,Coronation Boulevard (south side of Bath),44.2249507270754,-76.6289666108788,0
+00069,Maple Ridge Drive (south side of Bath),44.2281311564148,-76.6272199898959,0
+00022,Homeward Avenue (south side of Bath),44.2314971610904,-76.6251528449357,0
+00020,Lower Drive (south side of Bath),44.2355918884278,-76.6212158650161,0
+09048,Bath Road (east side of Collins Bay),44.2420063912869,-76.609896440059,0
+09001,Prince Charles Drive (east side of Collins Bay),44.2468604352326,-76.6103745438159,0
+09002,Taylor-Kidd Boulevard (east side of Collins Bay),44.2499577160925,-76.6105455346406,0
+09003,Mona Drive (south side of Taylor-Kidd),44.2515488527716,-76.6012422088534,0
+09062,Bayridge Secondary (south side of Taylor-Kidd),44.251513062045,-76.5946640074254,0
+00671,Sexton Lane (south side of Taylor-Kidd),44.2509177792818,-76.5924809407444,0
+00539,Crystal Springs (north side of Front),44.2183280177415,-76.5724447555841,0
+00685,Cranbrook Street (east side of Chelsea),44.2191982269288,-76.5739739499987,0
+00809,172 Glen Castle Road (east side),44.2207148484886,-76.5773995500059,0
+00810,Camberley Crescent (east side of Glen Castle),44.2224861122668,-76.5775682777167,0
+00542,234 Glen Castle Road (east side),44.2234673816711,-76.578290630132,0
+00687,290 Glen Castle Road (east side),44.2258540447802,-76.5792045090348,0
+00569,Henderson Boulevard (east side of Glen Castle),44.2279604170472,-76.5794210974128,0
+00565,420 Glen Castle Road (south side),44.2316472809762,-76.5791553072632,0
+00563,Roosevelt Drive (east side of Knightsbridge),44.2334431037307,-76.5785885229707,0
+00564,Vista Drive (north side of Roosevelt),44.2344451602549,-76.5837231092156,0
+00571,672 Roosevelt Drive (west side),44.2318165954203,-76.5886913146824,0
+00570,Springfield Drive (west side of Roosevelt),44.2297695670277,-76.5886750537903,0
+00576,Evangeline Avenue (north side of Acadia),44.2324055917561,-76.594364438206,0
+00577,Barnsley Crescent (north side of Acadia),44.2323083616794,-76.5964253805578,0
+00578,Sackville Crescent (east side of Acadia),44.233124088496,-76.5980978216977,0
+00579,Citation Crescent (east side of Acadia),44.2350776586682,-76.5984875801951,0
+00580,Acadia Drive (east side of Walden),44.2369593959302,-76.5974528342486,0
+00581,Coverdale Drive (east side of Walden),44.2378779686988,-76.5977569296957,0
+00575,Stoneridge Drive (south side of Coverdale),44.2372480686754,-76.5921885799617,0
+00562,Vista Drive (south side of Bath),44.2371502518654,-76.5826423466206,0
+00560,Frontenac Secondary School (south side of Bath),44.2376103345305,-76.5771108772606,0
+00811,McEwen Drive (south side of Bath),44.2374615557492,-76.5749729890377,0
+00610,Gardiners Road (north side of Development),44.2418569419533,-76.5680306777359,0
+00609,Justus Drive (north side of Development),44.2417085822672,-76.572600407526,0
+00598,McKay Street (north side of Development),44.2412671074272,-76.5771271381528,0
+00553,Truedell Road (north side of Development),44.2408379539848,-76.5798407793046,0
+00628,Hudson Drive (north side of Development),44.2411310691387,-76.5847428515554,0
+00737,Hudson Park (north side of Hudson),44.2437331471593,-76.5855115558953,0
+00004,Holgate Crescent (north side of Hudson),44.2450490221382,-76.592392763123,0
+00003,Bayridge Park (east side of Hudson),44.2472087033093,-76.5940203610808,0
+00002,Downing Street (north side of Hudson),44.2487378139049,-76.5973395109177,0
+00001,1116 Hudson Drive (north side),44.2486105766148,-76.5996757987887,0
+00681,Mona Drive (north side of Hudson),44.2484933137894,-76.6026473511011,0
+00600,High Gate Park Drive (north side of Hillside),44.2473893333227,-76.6045236401261,0
+00599,Brookside Drive (north side of Prince Charles),44.2471043486149,-76.6085225623102,0
+00015,Edwin Street (west side of Waverley),44.2465322837234,-76.611233605072,0
+00016,1346 Waverley Crescent (north side),44.2456002999098,-76.6134776081891,0
+S00028,1386 Waverley Crescent (north side),44.2441971693188,-76.6168820858002,0
+00017,Clark Crescent (east side of Aylmer),44.2467377241701,-76.6151744406671,0
+00105,768 Aylmer Crescent (east side),44.2481702752412,-76.6143344063313,0
+00014,808 Aylmer Crescent (south side),44.2494565621019,-76.6119284648449,0
+00013,Collins Bay Road (south side of Aylmer),44.2495266348124,-76.6108544077725,0
+00012,Woodside Drive (east side of Mona),44.2527991812677,-76.602155501023,0
+00679,Dunham Street (north side of Mona),44.2533590923995,-76.6043415013701,0
+00625,988 Mona Drive (east side),44.2547938227654,-76.6065438464285,0
+00624,1036 Mona Drive (south side),44.2560575623066,-76.6042570117862,0
+00623,Woodbine Road (east side of Mona),44.2578227911145,-76.6035684384406,0
+00622,Katharine Crescent (south side of Woodbine),44.2581241205335,-76.6003145836294,0
+00621,Holy Cross Secondary (south side of Woodbine),44.2583453189582,-76.5968643408269,0
+00604,Chancery Street (south side of Lancaster),44.2562296427787,-76.5944094490261,0
+00603,917 Lancaster Drive (south side),44.256415385753,-76.5914205461741,0
+00602,Chancery Street (west side of Lancaster),44.2545439582318,-76.5899808704854,0
+00675,Bridle Path Crescent (north side of Lancaster),44.2530653905124,-76.5923899132759,0
+00601,Taylor-Kidd Boulevard (west side of Liston),44.2517448216677,-76.5945074334741,0
+00660,Bayridge Drive (south side of Old Colony),44.2550020292402,-76.585978511721,0
+00640,Purcell Crescent (south side of Old Colony),44.2549040447921,-76.5819435473532,0
+09230,Ridley Drive (west side of Old Colony),44.2539195064456,-76.5775530226529,0
+00077,Loblaws (east side of Midland),44.260567361489,-76.5739600360394,0
+00649,Walmart (east side of Midland),44.2649220954627,-76.5739597007633,0
+00078,Cataraqui Woods Drive (east side of Midland),44.2686538025737,-76.5740956552327,0
+00646,Sierra Avenue (north side of Tivoli),44.2728189378977,-76.5764860901982,0
+00645,Birchwood Drive (north side of Sierra),44.2720593698323,-76.5782902110369,0
+00742,Peachwood Street (west side of Birchwood),44.2703396547586,-76.5786275826395,0
+S00694,Cataraqui Woods Drive (west side of Cedarwood),44.2668193392456,-76.5784380678088,0
+00644,706 Cedarwood Drive (west side),44.2649385239929,-76.5774681139738,0
+00653,Redwood Crescent (north side of Cedarwood),44.2621812131256,-76.5781623870135,0
+00655,Pinewood Place (north side of Cedarwood),44.2620678059757,-76.5805697534234,0
+00659,Basswood Place (north side of Cedarwood),44.2625305708498,-76.582976197824,0
+00657,Princess Street (west side of Bayridge),44.2606407031417,-76.5833765175194,0
+00656,Princess Street (east side of Bayridge),44.2602870706469,-76.583359502256,0
+00658,Basswood Place (south side of Cedarwood),44.2623748350889,-76.5827152691782,0
+00654,Sprucewood Crescent (south side of Cedarwood),44.2618580907584,-76.580240847543,0
+00652,Redwood Crescent (east side of Cedarwood),44.2622066941113,-76.5778849460185,0
+00643,Hickorywood Crescent (east side of Cedarwood),44.2649325728417,-76.5773138869555,0
+S00693,Cataraqui Woods Drive (east side of Cedarwood),44.2669030744583,-76.5783099923284,0
+00743,Peachwood Street (east side of Birchwood),44.2701579350979,-76.5784171968699,0
+00457,Sierra Avenue (east side of Birchwood),44.2719074897469,-76.5783324558289,0
+00075,Sierra Avenue (south side of Tivoli),44.2727017588914,-76.5768876671792,0
+00647,1245 Midland Avenue (west side),44.2687191814185,-76.5743179433048,0
+00854,Cataraqui Woods Drive (west side of Midland),44.2666051816196,-76.574260191992,0
+00648,Walmart (west side of Midland),44.263321319595,-76.5742264129222,0
+00651,Loblaws (west side of Midland),44.2603047564626,-76.5742035303266,0
+00566,860 Norwest Road (north side),44.2574359662831,-76.5746919438244,0
+00735,Ridley Drive (north side of Norwest),44.2572640534491,-76.5770361945034,0
+00552,Sutton Mills Court (west side of Ridley),44.2558112181724,-76.5760365687311,0
+00548,Old Colony Road (north side of Ridley),44.2540036607534,-76.577328555286,0
+00639,938 Old Colony Road (north side),44.2550166137517,-76.5816772542895,0
+00661,Bayridge Drive (north side of Old Colony),44.2554040253163,-76.58633004874,0
+00673,Lancaster Drive (east side of Liston),44.2527452018112,-76.5939770266414,0
+00663,Strand Boulevard (south side of Lancaster),44.2529999278486,-76.5919835586102,0
+00664,Rowantree Crescent (east side of Lancaster),44.2551845870913,-76.5896186046303,0
+00665,Newhall Drive (north side of Lancaster),44.2565479874611,-76.5917248092592,0
+00666,Lancaster Drive (east side of Limestone),44.256777651608,-76.5949441306294,0
+00758,Woodbine Road (east side of Limestone),44.2583873122931,-76.5950803365559,0
+00667,Holy Cross Secondary (north side of Woodbine),44.2584837879986,-76.597004653886,0
+00668,Katharine Crescent (north side of Woodbine),44.2582570575178,-76.6003382205964,0
+00669,Mona Drive (north side of Woodbine),44.2580421455205,-76.6030808631331,0
+00670,Palmerston Crescent (north side of Mona),44.2560369428248,-76.6047626081855,0
+00678,Humberside Drive (west side of Mona),44.2549837566913,-76.6066704969854,0
+00676,Lynwood Drive (south side of Mona),44.25322833471,-76.6046724189074,0
+00540,Woodside Drive (west side of Mona),44.2527987621725,-76.6023133322597,0
+00533,809 Aylmer Crescent (north side),44.2495680414141,-76.6118763294072,0
+00531,761 Aylmer Crescent (west side),44.2480572871864,-76.6145567782224,0
+00530,723 Aylmer Crescent (west side),44.2464373167605,-76.6155307553709,0
+S00018,1385 Waverley Crescent (south side),44.2439803294838,-76.6165580414236,0
+00532,1347 Waverley Crescent (south side),44.2454592324794,-76.6138419695199,0
+00470,Edwin Street (east side of Waverley),44.246597327292,-76.6110875923187,0
+00469,Glen Cove Street (south side of Prince Charles),44.2469443380833,-76.6093372832984,0
+00468,High Gate Park Dr. (south side of Prince Charles),44.2472586594522,-76.6047893464566,0
+00680,Mona Drive (south side of Hudson),44.2483728658408,-76.6028907615692,0
+00682,1121 Hudson Drive (south side),44.2484746221453,-76.5998674929143,0
+00091,Downing Street (south side of Hudson),44.2486233171076,-76.597028290853,0
+00689,1055 Hudson Drive (west side),44.2472108826042,-76.5941857360304,0
+00005,Holgate Crescent (south side of Hudson),44.2449009139091,-76.5926179848612,0
+00629,Hudson Park (south side of Hudson),44.2436208296568,-76.5856200177223,0
+00627,917 Development Drive (south side),44.2410286422819,-76.5847964119167,0
+00068,Truedell Road (south side of Development),44.240701161325,-76.579773304984,0
+00597,McKay Street (south side of Development),44.24127465114,-76.5765838231892,0
+00608,Justus Drive (south side of Development),44.2415787465871,-76.5721560828388,0
+00611,Gardiners Road (south side of Development),44.241702631116,-76.5679927915335,0
+00035,McEwen Drive (north side of Bath),44.2376690078527,-76.5742296818645,0
+00804,Frontenac Secondary School (north side of Bath),44.2378327064217,-76.5772433113307,0
+00698,Vista Drive (north side of Bath),44.2373582068831,-76.5842670947314,0
+00031,Stoneridge Drive (north side of Coverdale),44.2374380026013,-76.5920634381474,0
+00030,Coverdale Drive (west side of Walden),44.2378893680871,-76.5979037806392,0
+00027,1189 Acadia Drive (west side of Acadia),44.2353198118508,-76.5986806992442,0
+00026,Sackville Crescent (south side of Acadia),44.2329289577902,-76.5980813093484,0
+00010,Barnsley Crescent (south side of Acadia),44.2321939487011,-76.5963697247208,0
+00011,1071 Acadia Drive (south side),44.2323023267091,-76.5943441540004,0
+00405,717 Roosevelt Drive (east side),44.2296320199967,-76.5885298792274,0
+00408,Tanglewood Drive (east side of Roosevelt),44.2318821419031,-76.5885102655739,0
+00588,543 Roosevelt Drive (south side),44.2344082798809,-76.5844359062613,0
+00590,425 Knightsbridge Road (west side),44.2331832647324,-76.5788245573641,0
+00592,419 Glen Castle Road (north side),44.2317679803819,-76.5790208615363,0
+00594,Henderson Boulevard (west side of Glen Castle),44.2283055838198,-76.5795918367804,0
+00596,Chelsea Road (west side of Glen Castle),44.2260961141438,-76.5794038306922,0
+09051,263 Chelsea Road (west side),44.2245386727155,-76.5750990528614,0
+00545,Glen Castle Road (west side of Chelsea),44.219714300707,-76.5742243174464,0
+00684,Lakeview Avenue (south side of Cranbrook),44.2194889113307,-76.5718271769584,0
+00744,2485 Princess Street (south side),44.2581546306611,-76.5662252157927,0
+S02076,Centennial Drive (south side of Princess),44.2580542992801,-76.5575688052923,0
+00041,Futures Gate (south side of Princess),44.2580268066377,-76.5530419908465,0
+00397,Taylor-Kidd Boulevard (south side of Princess),44.2565772403032,-76.5416833385826,0
+S00044,Parkway (south side of Princess),44.2513812147081,-76.5335561614484,0
+00378,Portsmouth Avenue (south side of Princess),44.2500157188625,-76.5307863615454,0
+S02053,Hillendale Avenue (south side of Princess),44.2477088514716,-76.5259632468224,0
+00382,Heathfield (south side of Princess),44.2457548622042,-76.5218711178751,0
+S00501,Kingston Centre Transfer Point Platform 2,44.2421449441463,-76.5167697239668,0
+02052,Westdale Avenue (south side of Bath),44.2407467588783,-76.5135816670955,0
+S00363,800 Princess Street (south side),44.2395872902126,-76.5081293229014,0
+00361,Macdonnell Street (south side of Princess),44.238378116861,-76.5052695013583,0
+00359,Victoria Street (south side of Princess),44.2375659104437,-76.5032989997417,0
+S00356,Albert Street (south side of Princess),44.2365181725473,-76.5008141845465,0
+09070,Alfred Street (south side of Princess),44.2352423630655,-76.4977324940265,0
+00277,University Avenue (south side of Princess),44.234263189137,-76.4953034184874,0
+S00272,Barrie Street (south side of Princess),44.232933651656,-76.4917085878552,0
+00294,Clergy Street (north side of Brock),44.2317570000887,-76.4894287101925,0
+S00292,Barrie Street (north side of Brock),44.2320739198477,-76.4914288837463,0
+00273,Princess Street (east side of Division),44.2325613275171,-76.4927083812655,0
+00278,University Avenue (north side of Princess),44.2346888221801,-76.4958689454944,0
+00275,Alfred Street (north side of Princess),44.2355291917921,-76.497968947515,0
+S00357,Albert Street (north side of Princess),44.2366040870548,-76.5005120169372,0
+00360,Legion Villa (north side of Princess),44.238259010017,-76.5044675208629,0
+S00364,Tower Street (north side of Princess),44.2398411780596,-76.5083361882717,0
+00366,Westdale Avenue (north side of Bath),44.2410195060075,-76.5136524941773,0
+S00504,Kingston Centre Transfer Point Platform 1,44.2422263324261,-76.5169471688569,0
+00383,Sir John A Macdonald Blvd (north side of Princess),44.2453995533288,-76.5205631218851,0
+00381,1225 Princess Street (north side),44.2469719983638,-76.5238325670362,0
+S00380,McMichael Street (north side of Princess),44.2479673493654,-76.5260225906969,0
+S00043,Parkway (north side of Princess),44.2513390537352,-76.5328711923213,0
+00398,John Counter Boulevard (north side of Princess),44.2574549932033,-76.5422850754113,0
+S00400,Andersen Drive (north side of Princess),44.2582558002323,-76.5495065879077,0
+00402,Augusta Drive (north side of Princess),44.2583098635078,-76.5550663881005,0
+S00584,Centennial Drive (north side of Princess),44.258344648406,-76.5597136504949,0
+00816,940 Gardiners Road (west side),44.2571820784361,-76.5689328219742,0
+09231,Taylor-Kidd Boulevard (west side of Gardiners),44.2511938791722,-76.5684967115522,0
+09046,RioCan at Petsmart (south side of driveway),44.2482192255557,-76.5668633300812,0
+S00103,RioCan Centre (west side of driveway),44.2449536360801,-76.565499091521,0
+00527,1600 Bath Road (south side),44.2369001358748,-76.5635448507965,0
+09029,Bath Road (east side of Tanner),44.2377205565572,-76.5593113191427,0
+09026,Arbour Heights (east side of Tanner),44.2393688578159,-76.5593924559654,0
+09018,Arbour Crescent (east side of Tanner),44.2411310691387,-76.5594340302051,0
+09019,668 Tanner Drive (south side),44.2431357689202,-76.5560892317445,0
+09020,Dolshire Street (south side of Malabar),44.2424105666578,-76.5536054223777,0
+09021,Teal Court (south side of Malabar),44.2414070852101,-76.5511330962182,0
+00518,Owens Crescent (south side of Kingsdale),44.2415353283287,-76.5475835278631,0
+00732,284 Kingsdale Avenue (south side),44.2416188959033,-76.545138610527,0
+00517,Armstrong Road (south side of Kingsdale),44.2418975941837,-76.5435691829772,0
+00513,Bath Road (west side of Armstrong),44.2389692086727,-76.5422766096891,0
+00511,Queen Mary Road (south side of Bath),44.2386303283275,-76.5354890283198,0
+S00506,Kingston Centre Transfer Point Platform 5,44.2419056408108,-76.5168951172382,0
+00510,Queen Mary Road (north side of Bath),44.2387672048063,-76.5368914045394,0
+00512,Bath Road (east side of Armstrong),44.2387927696109,-76.5420753601939,0
+00516,Kingsdale Avenue (east side of Armstrong),44.2419245839119,-76.5429712180049,0
+00731,Owens Crescent (north side of Kingsdale),44.241776810959,-76.5445754304529,0
+00519,259 Kingsdale Avenue (north side),44.2416670080275,-76.5476984437556,0
+09022,Fernmoor Drive (north side of Malabar),44.2415431234986,-76.5511930268259,0
+09023,Dolshire Street (north side of Malabar),44.2425559088588,-76.5537106990815,0
+09024,Tanner Drive (east side of Melrose),44.2437318060548,-76.5548963192851,0
+09025,Farnham Crescent (west side of Tanner),44.241145150736,-76.5597224514932,0
+09027,Arbour Heights (west side of Tanner),44.2394136171788,-76.5596077870578,0
+09028,Bath Road (west side of Tanner),44.2374038044364,-76.5595020912588,0
+00528,1600 Bath Road (north side),44.2372259404511,-76.5638828091324,0
+S00101,RioCan Centre (east side of driveway),44.2449166718871,-76.5653678309173,0
+09045,RioCan at Best Buy (north side of driveway),44.2483185511083,-76.5665778424592,0
+09232,Taylor-Kidd Boulevard (east side of Gardiners),44.251423208043,-76.5682522952557,0
+S09227,King's Crossing North (east side of driveway),44.2649179883302,-76.5027519967408,0
+00745,First Canada Avenue (west side of Division),44.2641964741052,-76.4985340554268,0
+02001,Kirkpatrick Street (west side of Division),44.2532446794212,-76.4967865124346,0
+S02028,Guy Street (west side of Division),44.2435990367085,-76.4953934401274,0
+00283,York Street (west side of Division),44.2379774618894,-76.4942328818143,0
+00353,Alfred Street (north side of Brock),44.2329659219832,-76.4976998046041,0
+00349,Victoria Street (north side of Brock),44.232828039676,-76.5034025162459,0
+00345,Regent Street (north side of Brock),44.2326413746924,-76.5084064286203,0
+09217,325 Palace Road (east side),44.2339176032693,-76.5136795677245,0
+S09217,Kingston Centre (north side of Bath),44.2406727466733,-76.5171238593758,0
+09030,Frontenac Mall (north side of Bath),44.2379535734654,-76.5456813387573,0
+00734,Tanner Drive (north side of Bath),44.2371346615255,-76.5598255489022,0
+S09218,Gardiners Centre (north side of Bath),44.2372685205192,-76.5668168105186,0
+00617,Arlington Park Place (east side of Gardiners),44.2481071595103,-76.5680702403188,0
+00616,Arlington Park Place (west side of Gardiners),44.2488121613861,-76.5683958772571,0
+S09209,Gardiners Centre (south side of Bath),44.2370378505439,-76.5668344963343,0
+00733,Tanner Drive (south side of Bath),44.2368726432324,-76.5595005825163,0
+00806,Centennial Drive (south side of Bath),44.2374305427075,-76.5482047107071,0
+S09210,Kingston Centre (south side of Bath),44.2404955532402,-76.516574593261,0
+09211,324 Palace Road (west side),44.233922129497,-76.5139488782734,0
+00346,Willingdon Avenue (south side of Johnson),44.2312446981669,-76.5077484492213,0
+00350,Victoria Street (south side of Johnson),44.2314236517996,-76.5022961888463,0
+00352,Alfred Street (south side of Johnson),44.2315829079599,-76.4972315076739,0
+09212,Barrie Street (south side of Johnson),44.2309309635312,-76.4913950208575,0
+S02036,Downtown Transfer Point Platform 2,44.2311619687826,-76.4853454660625,0
+00284,York Street (east side of Division),44.237984167412,-76.4940665010364,0
+S00231,Russell Street (east side of Division),44.2436035629362,-76.4950491115452,0
+09229,Kirkpatrick Street (east side of Division),44.2536491062493,-76.4966327045114,0
+00832,Weller Avenue (east side of First Canada),44.2630797531456,-76.4970460999758,0
+09215,King's Crossing South (north side of driveway),44.2637093178928,-76.5002556145192,0
+S02080,Innovation Drive at Highway 15 (north side),44.2721629701555,-76.4461060892791,0
+00700,St. Martha Street (south side of Rose Abbey),44.2663542274386,-76.4473104849458,0
+00065,McCallum Street (west side of Rose Abbey),44.2639641277492,-76.446798266843,0
+02012,Dalgleish Avenue (west side of Rose Abbey),44.2615363094956,-76.4496126584709,0
+S00139,Rideau Town Centre (north side of Gore),44.25961333327,-76.4559782110155,0
+00134,Medley Court (west side of Highway 15),44.2528368160129,-76.4608389604837,0
+00132,Barrett Court (west side of Highway 15),44.2493321746588,-76.4611053373665,0
+02010,Barriefield (west side of Highway 15),44.2412632517517,-76.4592324849219,0
+S00127,Highway 2 at Royal Military College (north side),44.2364595830441,-76.4672847278417,0
+00266,Rogers K-Rock Centre (west side of Ontario),44.2333317082376,-76.4788924064488,0
+S02039,Downtown Transfer Point Platform 4,44.2313077300787,-76.4844463393093,0
+09201,Union Street (west side of University),44.2280828766525,-76.4956928417087,0
+S00426,Kingston General Hospital (south side of Stuart),44.2242750618607,-76.4948352053762,0
+09203,Wolfe Island Ferry Dock (east side of Ontario),44.2326819431037,-76.4788711164147,0
+S00126,Highway 2 at Royal Military College (south side),44.2370235174895,-76.4651573169977,0
+00079,Barriefield (east side of Highway 15),44.2413489986211,-76.4590079337359,0
+09225,Barrett Court (east side of Highway 15),44.2505402583629,-76.4606205280871,0
+09226,Grenadier Drive (east side of Highway 15),44.2537879105658,-76.4603865053505,0
+S09205,Rideau Town Centre (south side of Gore),44.2594134248794,-76.4559144247324,0
+09206,Dalgleish Avenue (east side of Rose Abbey),44.2612790688873,-76.4492405019701,0
+09221,McCallum Street (east side of Rose Abbey),44.2638702504337,-76.4466043096036,0
+09207,St. Martha Street (north side of Rose Abbey),44.266088269651,-76.4464206621052,0
+Smspr1,Montreal Street Park and Ride,44.2788032814861,-76.4724774844945,0
+00152,1480 Montreal Street (west side),44.2750217020512,-76.4757826365531,0
+00146,Joyce Street (north side of Sheppard),44.2735731415451,-76.4782186690719,0
+00150,Joyce Street (north side of Guthrie),44.2748013418168,-76.4778572414071,0
+00145,242 Guthrie Drive (west side),44.2738518398256,-76.4799160044641,0
+00141,Esdon Street (west side of Guthrie),44.2721953243018,-76.4817213825882,0
+00160,Virginia Street (north side of Guthrie),44.2711498495192,-76.4831924065948,0
+02013,118 Virginia Street (north side),44.2712891567499,-76.4845955371857,0
+00157,80 Virginia Street (north side),44.2703289259226,-76.4864370413125,0
+00154,Sutherland Drive (west side of Virginia),44.2684367112816,-76.4876610506327,0
+00161,Guthrie Drive (south side of Sutherland),44.2684953846038,-76.4848847966642,0
+00168,Conacher Drive (west side of Sutherland),44.2685405630619,-76.48174979724,0
+00181,Wilson Street (north side of Conacher),44.2660335358233,-76.4876179676504,0
+00207,235 Conacher Drive (north side),44.2657680809498,-76.4911945257337,0
+02017,300 Conacher Drive (north side),44.2663310933859,-76.4947544038296,0
+00210,Division Street (north side of Benson),44.2664863262326,-76.4973356109113,0
+00217,Rigney Street (north side of John Counter),44.2595609463752,-76.5029775537551,0
+S09074,Bus Terminal Transfer Point,44.2585095204413,-76.5062441490591,0
+09076,Douglas Avenue (south side of Elliott),44.2559495195747,-76.5040943585337,0
+00073,Rockford Place (south side of Elliott),44.2560908384622,-76.5012869238854,0
+02021,Division Street (south side of Elliott),44.2562639247626,-76.4977763313801,0
+00235,Barbara Avenue (west side of Division),44.2499479092658,-76.4962970931084,0
+02026,Railway Street (west side of Division),44.2476312350482,-76.4958988688887,0
+00070,Fraser Street (west side of Division),44.2453479208053,-76.4955617487431,0
+00288,Adelaide Street (west side of Division),44.2409286461771,-76.4948536455632,0
+00286,Pine Street (west side of Division),44.2390289716423,-76.4944410882891,0
+00280,Colborne Street (west side of Division),44.2347860522569,-76.4934646803886,0
+00297,Johnson Street (west side of Bagot),44.229828407988,-76.4854997768999,0
+00299,Earl Street (west side of Bagot),44.2287321388722,-76.4864425733686,0
+00301,West Street (north side of Bagot),44.2271127551794,-76.4878742024303,0
+00317,George Street (north side of Stuart),44.2248048819602,-76.4919752161951,0
+S00427,Kingston General Hospital (north side of Stuart),44.2244296241552,-76.4947877638043,0
+00428,University Avenue at Grant Hall (east side),44.2255306709558,-76.4954053424299,0
+S00430,Douglas Library (east side of University),44.2272800579668,-76.4954008162022,0
+S02042,Alfred Street (north side of Union),44.2278720717878,-76.4971449226142,0
+00107,Albert Street (north side of Union),44.2273033596576,-76.500075319782,0
+00437,Victoria Street (north side of Union),44.2268730327487,-76.5023344103248,0
+00440,Willingdon Avenue (north side of Union),44.2254719976336,-76.5069250110538,0
+00441,Pembroke Street (north side of Union),44.2245696857572,-76.5098053682596,0
+00461,Cartwright Street (south side of Churchill),44.2224379163236,-76.5236226003618,0
+S00451,Francis Street (south side of Churchill),44.2225653212518,-76.5216289646924,0
+00450,Herbert Street (east side of Mowat),44.2251856718213,-76.5203806478531,0
+00447,Forsythe Avenue (east side of Mowat),44.2266238387675,-76.5205516386778,0
+02056,Johnson Street (east side of Yonge),44.230428384617,-76.5183969866485,0
+00488,Mowat Avenue (north side of Johnson),44.2305597290397,-76.5208433289082,0
+00486,Johnson Street (east side of Roden),44.2306175641716,-76.5224450267852,0
+00484,Silver Street (east side of Roden),44.231897899881,-76.5225769579411,0
+00481,219 Norman Rogers Drive (east side),44.2337616998703,-76.5227664727718,0
+00471,Mulcaster Street (east side of Norman Rogers),44.2353234998882,-76.5229157544673,0
+00479,Byron Crescent (east side of Norman Rogers),44.2363035958261,-76.523007368669,0
+00477,Casterton Avenue (east side of Norman Rogers),44.2377880308778,-76.5231558959932,0
+00498,Van Order Drive at L.C.V.I. (west side),44.2376876994968,-76.5203469526023,0
+00474,MacPherson Avenue (west side of Van Order),44.2357368115336,-76.5181114990265,0
+00473,Norman Rogers Drive (west side of Van Order),44.2338088061661,-76.5162462741137,0
+S00502,Kingston Centre Transfer Point Platform 4,44.241996081546,-76.5167984738947,0
+00472,Van Order Drive (north side of Norman Rogers),44.2338574212045,-76.5158417634667,0
+00475,MacPherson Avenue (east side of Van Order),44.2356961593032,-76.5178488101811,0
+02059,Van Order Drive at L.C.V.I. (east side),44.2377724405379,-76.5202038735152,0
+00476,Casterton Avenue (west side of Norman Rogers),44.2377922218293,-76.5233138110489,0
+00478,306 Norman Rogers Drive (west side),44.2365685477853,-76.5231920219959,0
+00480,Mulcaster Street (west side of Norman Rogers),44.2352880444378,-76.5230763517321,0
+00482,215 Norman Rogers Drive (west side),44.2334700096399,-76.5228979848326,0
+00483,Silver Street (west side of Roden),44.2320528812707,-76.5227674786002,0
+00485,Johnson Street (west side of Roden),44.2307663429529,-76.5226353798062,0
+00487,Mowat Avenue (south side of Johnson),44.230401813984,-76.5211397130043,0
+00489,394 Yonge Street (west side),44.23031472601,-76.5185493696482,0
+00445,310 Yonge Street (west side),44.2275221273303,-76.5182696655393,0
+00448,Mowat Avenue (north side of Forsythe),44.2269328795374,-76.5205332823098,0
+00449,Francis Street (west side of Mowat),44.2250428441912,-76.520554739982,0
+S00800,Francis Street (north side of Churchill),44.2226840090007,-76.5219775680453,0
+00452,Cartwright Street (north side of Churchill),44.222558028996,-76.5237984526903,0
+00696,Pembroke Street (south side of Union),44.2243848647923,-76.5099633671344,0
+02043,Hillcroft Drive (south side of Union),44.2254989035428,-76.5063184127212,0
+00436,Beverley Street (south side of Union),44.2266272753478,-76.5026085823775,0
+00433,Albert Street (south side of Union),44.2272022739053,-76.4998887386174,0
+S00431,University Avenue (south side of Union),44.2278360296041,-76.4959833584727,0
+00429,Bader Lane (west side of University),44.225414916873,-76.4957241900266,0
+00318,George Street (south side of Stuart),44.224637914449,-76.4922114182264,0
+00302,West Street (south side of Bagot),44.2268566042185,-76.4879115857185,0
+00300,Earl Street (east side of Bagot),44.2284418735654,-76.4864715747536,0
+00279,Colborne Street (east side of Division),44.2348107788712,-76.4932949468494,0
+00285,Pine Street (east side of Division),44.2391509283334,-76.4942751266063,0
+00287,Adelaide Street (east side of Division),44.2407822143287,-76.4946219697595,0
+00232,Fraser Street (east side of Division),44.245540117845,-76.4953925181181,0
+00233,Railway Street (east side of Division),44.247839357704,-76.49574640207,0
+00234,Kingston Police (east side of Division),44.250180926174,-76.4961012918503,0
+00216,Derby Gate Crescent (north side of Elliott),44.2563728056848,-76.4986021164805,0
+00051,Rockford Place (north side of Elliott),44.2562136333436,-76.501465458423,0
+00690,Douglas Avenue (north side of Elliott),44.2561241146177,-76.5037580765785,0
+S00052,Bus Terminal Transfer Point,44.2587473150343,-76.5060335118324,0
+00218,Rigney Street (south side of John Counter),44.2594026122243,-76.5030323714019,0
+00746,First Canada Avenue (east side of Division),44.2636618763209,-76.4981746394188,0
+00209,Kingslake Plaza (south side of Benson),44.2663443367929,-76.4973169192672,0
+00208,300 Conacher Drive (south side),44.2661982402206,-76.4947247318924,0
+00206,230 Conacher Drive (south side),44.2656402569265,-76.491332827136,0
+00182,Wilson Street (south side of Conacher),44.265900598839,-76.4878664072604,0
+00163,Abbey Dale Court (south side of Conacher),44.2665496096015,-76.4843471813948,0
+00169,Sutherland Drive (east side of Conacher),44.2682757787407,-76.4815551694483,0
+00162,Guthrie Drive (north side of Sutherland),44.2686066962779,-76.4848424680532,0
+00155,Sutherland Drive (east side of Virginia),44.2685908544809,-76.4875133614988,0
+00156,Mgr. Remi-Gaulin School (south side of Virginia),44.2700530774892,-76.4866693876684,0
+00158,109 Virginia Street (south side),44.2710667848587,-76.4847340062261,0
+00159,Guthrie Drive (south side of Virginia),44.2712042480708,-76.4835107512773,0
+00142,Esdon Street (east side of Guthrie),44.2724031116814,-76.4812454581261,0
+00144,213 Guthrie Drive (east side),44.2738223355264,-76.479759849608,0
+00149,Joyce Street (south side of Guthrie),44.2746323626489,-76.4777627773584,0
+00147,Montreal Street (south side of Sheppard),44.2731846403331,-76.4776300080121,0
+00151,1475 Montreal Street (east side),44.2748390603811,-76.4757053554059,0
+00855,Seniors Centre (east side of Francis),44.2247185483575,-76.5217909030617,0
+00454,Seniors Centre (west side of Francis),44.2244825977833,-76.5219312999398,0
+00170,Esdon Street (west side of Montreal),44.2710511106998,-76.4791452884675,0
+00172,Sutherland Drive (west side of Montreal),44.2681907862425,-76.4791487250478,0
+00175,Greer Street (west side of Montreal),44.2661710828543,-76.4786870498211,0
+00179,1130 Montreal Street (west side),44.2639076337219,-76.4786942582578,0
+00188,Daly Street (north side of Weller),44.2626524437219,-76.4819050300867,0
+00187,Baker Street (north side of Weller),44.2625428084284,-76.4834845997394,0
+02016,Weller Avenue (east side of Wilson),44.2627098597587,-76.4864930324257,0
+00183,Wilson Street (north side of Compton),44.2647235281766,-76.4879645593465,0
+00205,71 Compton Street (north side),44.2645188421011,-76.4906129054726,0
+00201,Weller Avenue at KCHC (west side of Compton),44.262232342735,-76.4908044319601,0
+00203,Trillium Court (north side of Weller),44.2617783788592,-76.4931594952942,0
+S09056,Weller Avenue (west side of First Canada),44.2626479174942,-76.4971591718496,0
+09068,336 Weller Avenue (south side),44.2614089045674,-76.4962119329721,0
+02018,Worthington Park (south side of Weller),44.2616553325206,-76.4932077750564,0
+00202,Compton Street (south side of Weller),44.2618507985026,-76.4905141666532,0
+00198,Weller Avenue (west side of Wiley),44.2614892031998,-76.4894514251501,0
+00196,Wiley Street (south side of Drennan),44.2605423834175,-76.488806186244,0
+00195,Wilson Street (south side of Drennan),44.260770790279,-76.485925493762,0
+00190,Baker Street (south side of Drennan),44.2609657533467,-76.4836015272886,0
+00191,Montreal Street (south side of Drennan),44.2609207425267,-76.4815195463598,0
+02015,Briceland Street (west side of Montreal),44.2594405822456,-76.4820122346283,0
+02022,John Counter Boulevard (west side of Montreal),44.2561645992101,-76.4831701107324,0
+02023,Village Drive (west side of Montreal),44.2547142785043,-76.4835169538856,0
+00224,Hickson Avenue (west side of Montreal),44.2528235726059,-76.485114125535,0
+S00225,Royal Canadian Legion (west side of Montreal),44.2513045202941,-76.4856833405793,0
+00228,670 Montreal Street (west side),44.2499038204551,-76.4860188681633,0
+02025,Railway Street (west side of Montreal),44.2480491567404,-76.4870618283749,0
+00054,Joseph Street (west side of Montreal),44.2459480650723,-76.4874547719956,0
+00053,Russell Street (west side of Montreal),44.2442182078958,-76.4877618011088,0
+00250,Stephen Street (west side of Montreal),44.243040131405,-76.4879387430847,0
+02029,362 Montreal Street (west side),44.2412946000696,-76.4877182152123,0
+00254,Charles Street (west side of Montreal),44.2400964908302,-76.4865283202381,0
+00256,John Street (west side of Montreal),44.2391328234226,-76.4860031101853,0
+00258,Bagot Street (south side of Raglan),44.2379690799863,-76.4842444192619,0
+02030,Rideaucrest Home (west side of Rideau),44.2378399148584,-76.4828912448139,0
+00262,North Street (west side of Bagot),44.2363730818034,-76.483948789537,0
+00265,Artillery Park (west side of Bagot),44.234141483903,-76.4839278347791,0
+00269,Queen Street (east side of Montreal),44.2331853602082,-76.4851058274508,0
+02031,Ordnance Street (east side of Montreal),44.2346008960158,-76.4849474094809,0
+00264,North Street (east side of Montreal),44.2363548092545,-76.4850052446128,0
+00261,Rideau Street (south side of North),44.2369386088103,-76.4828247763217,0
+00259,Rideaucrest Home (east side of Rideau),44.2380641307682,-76.4827465731651,0
+00257,Montreal Street (north side of Raglan),44.2379265837372,-76.4850899018348,0
+00255,John Street (east side of Montreal),44.239334827289,-76.4859042875469,0
+00253,Charles Street (east side of Montreal),44.2403327766806,-76.4864967204631,0
+00252,362 Montreal Street (east side),44.2415541876108,-76.4875593781472,0
+00251,Stephen Street (east side of Montreal),44.242754559964,-76.487741181627,0
+00585,Russell Street (east side of Montreal),44.2445618659258,-76.4875074941666,0
+00230,Joseph Street (east side of Montreal),44.2456805147231,-76.487331558019,0
+00229,Railway Street (east side of Montreal),44.2487547453493,-76.4863869175316,0
+00227,687 Montreal Street (east side),44.250128036365,-76.4856712706388,0
+S00226,Belle Park (east side of Montreal),44.2511501256377,-76.4854439534248,0
+00223,Hickson Avenue (east side of Montreal),44.2527582775802,-76.4849396143109,0
+00222,Village Drive (east side of Montreal),44.2548141907901,-76.4831675123424,0
+00213,John Counter Boulevard (east side of Montreal),44.2571272607893,-76.4828085154296,0
+00212,Briceland Street (east side of Montreal),44.2595870979131,-76.4816802274436,0
+00192,Daly Street (north side of Drennan),44.2611888796092,-76.4822227880359,0
+00193,Baker Street (north side of Drennan),44.261072119698,-76.4837996754796,0
+00194,Wilson Street (north side of Drennan),44.2609107680619,-76.4858914632351,0
+00197,Butler Street (north side of Drennan),44.2606828641147,-76.4888046775014,0
+00199,Weller Avenue (east side of Wiley),44.2618627008051,-76.489324271679,0
+00200,Weller Avenue at KCHC (east side of Compton),44.2626873962582,-76.4907006639988,0
+00204,70 Compton Street (south side),44.264428485185,-76.4902923814953,0
+00184,Wilson Street (south side of Compton),44.2647313233465,-76.487434739247,0
+00185,Weller Avenue (west side of Wilson),44.2629515100271,-76.4867384545506,0
+00186,Ford Street (south side of Weller),44.2623119708151,-76.4846213534475,0
+00189,Daly Street (south side of Weller),44.2625207640231,-76.4818516373635,0
+00057,1135 Montreal Street (east side),44.2639259900898,-76.4784566313029,0
+00174,Greer Street (east side of Montreal),44.2664452549071,-76.478509772569,0
+00171,1343 Montreal Street (east side),44.2709541320801,-76.4789185579867,0
+00148,Sheppard Street (east side of Montreal),44.2729958798737,-76.4773934707046,0
+S00396,Train Station Transfer Point,44.2575267422945,-76.5366297215224,0
+00837,Indian Road (south side of John Counter),44.2588261049241,-76.5252611786128,0
+00835,Aberfoyle Road (south side of John Counter),44.2589085828513,-76.5217142924667,0
+00833,MTO Office (south side of John Counter),44.2589756380767,-76.514841048047,0
+09044,Lappan's Lane (south side of John Counter),44.2591193038971,-76.5090182237328,0
+S02007,Bus Terminal Transfer Point,44.2600022535772,-76.5062409639359,0
+00843,Johnson Street (east side of Portsmouth),44.230605410412,-76.5260583814234,0
+00845,Miles Avenue (east side of Portsmouth),44.2348919156939,-76.5273274853826,0
+00846,Van Order Drive (east side of Portsmouth),44.2378806509078,-76.5282212477178,0
+00506,Elmwood Street (east side of Portsmouth),44.2411498446018,-76.5290122479201,0
+00374,Phillips Street (east side of Portsmouth),44.2429309152067,-76.5291272476316,0
+00375,Fairview Road (east side of Portsmouth),44.2443486303091,-76.529215341434,0
+00376,Valleyview Avenue (east side of Portsmouth),44.246578719467,-76.5293457638473,0
+00377,Howard Crescent (east side of Portsmouth),44.2484917212278,-76.5294917766006,0
+00396,Princess Street (south side of John Counter),44.2574016842992,-76.5413002856076,0
+09067,Grenadier Drive (south side of Gore),44.2597425822169,-76.4528307225556,0
+00060,Gore Road (west side of Rose Abbey),44.2598735913635,-76.4493199624122,0
+09071,Grenadier Drive (north side of Rose Abbey),44.2585447244347,-76.4522274769843,0
+00062,78 Grenadier Drive (west side),44.2560842167587,-76.4544893335552,0
+00064,Highway 15 (north side of Grenadier),44.2550151888282,-76.4598143566401,0
+09065,Sadie Avenue (west side of Craftsman),44.2443780507893,-76.4596025459469,0
+00755,Apprentice Street (south side of Craftsman),44.243111293763,-76.4545265492053,0
+00080,Givenchy Street (south side of Craftsman),44.2433092743159,-76.4516295958311,0
+00058,Lance Street (south side of Craftsman),44.2436660081149,-76.4472173620016,0
+00059,Moro Street (south side of Craftsman),44.2440263461322,-76.4427187945694,0
+00089,Mercury Crescent (west side of Craftsman),44.2422966565937,-76.4390946272761,0
+S00029,Princess Mary Avenue (north side of Caen),44.2406083736569,-76.4396107848734,0
+00086,Canal du Nord Drive (north side of Lundy's),44.2385117243976,-76.4408845826984,0
+00117,13 Lundy's Lane (north side),44.2382182739675,-76.4451565034688,0
+00084,Batoche Avenue (north side of Lundy's),44.2379776295275,-76.4485142938793,0
+00083,49 Lundy's Lane (north side),44.2376920580864,-76.4511533360929,0
+00082,Lundy's Lane (east side of Niagara Park),44.2360024340451,-76.4541798736901,0
+00123,Canex (east side of Niagara Park),44.2380208801479,-76.4551725424827,0
+00128,Constantine Arena (north side of Highway 2),44.235914926976,-76.4684783108533,0
+00274,University Avenue (north side of Brock),44.2326382733882,-76.4953611698002,0
+00351,Albert Street (north side of Brock),44.2328636627645,-76.5008965786547,0
+00347,Macdonnell Street (north side of Brock),44.2327509261668,-76.5054303500802,0
+00335,Mack Street (east side of Regent),44.2341899313033,-76.5088805090637,0
+00334,Carruthers Avenue (east side of Regent),44.2354380805046,-76.5089925751091,0
+00331,Dunlop Street (east side of Regent),44.2371178139002,-76.509148227051,0
+00330,Regent Street (north side of Park),44.2384660430253,-76.5098614431918,0
+00328,Helen Street (north side of Park),44.2383223772049,-76.5120806358755,0
+00325,Palace Road (north side of Park),44.2381995823235,-76.5141425002367,0
+00326,Wright Crescent (east side of Palace),44.2394951730967,-76.5142783708871,0
+02046,Wright Crescent (west side of Palace),44.2396323010326,-76.5145261399449,0
+00327,Park Street (west side of Palace),44.238343751058,-76.5143365412951,0
+00329,Helen Street (south side of Park),44.2381883505732,-76.5121385548265,0
+02044,Regent Street (south side of Park),44.2383371293545,-76.5095363091678,0
+00332,Dunlop Street (west side of Regent),44.237014297396,-76.5093497280032,0
+00333,Carruthers Avenue (west side of Regent),44.2355967499316,-76.5091820061208,0
+00336,Mack Street (west side of Regent),44.2340107262135,-76.5090224985034,0
+00344,Brock Street (west side of Regent),44.2327419575304,-76.508902385831,0
+00348,Macdonnell Street (south side of Johnson),44.2313396651298,-76.5050562657417,0
+00108,Albert Street (south side of Johnson),44.2315293475986,-76.4993287436665,0
+00290,University Avenue (south side of Johnson),44.231569999829,-76.495265280828,0
+00291,Division Street (south side of Johnson),44.2312267608941,-76.4930778555573,0
+00756,Sydenham Street (south side of Johnson),44.2304754070938,-76.4879426825792,0
+00092,King Street E. at City Hall (east side),44.2298436630518,-76.4816185366363,0
+00042,King Street E. (south side of Princess),44.2313470412046,-76.4814208913595,0
+00093,Royal Military College (south side of Highway 2),44.235806632787,-76.4682865329087,0
+00124,Canex (west side of Niagara Park),44.2393601406366,-76.4554835949094,0
+00081,Sicily Drive (west side of Niagara Park),44.2376742046327,-76.4553155377508,0
+00122,6 Niagara Park Drive (south side),44.2357715964318,-76.4538535661996,0
+00121,48 Lundy's Lane (south side),44.2375645693392,-76.4511953294278,0
+00118,Batoche Avenue (south side of Lundy's),44.2379036173225,-76.4483195822687,0
+00085,13 Lundy's Lane (south side),44.238155996427,-76.4445250947029,0
+00116,Canal du Nord Drive (south side of Lundy's),44.2384129855782,-76.4407193753869,0
+S00115,Princess Mary Avenue (south side of Caen),44.2404276598245,-76.4396627526731,0
+00088,Mercury Crescent (east side of Craftsman),44.2424342036248,-76.4389665517957,0
+00114,Moro Street (north side of Craftsman),44.2441519070417,-76.4427569322289,0
+00119,Lance Street (north side of Craftsman),44.2437927424908,-76.4472305215896,0
+00120,Givenchy Street (north side of Craftsman),44.2434473242611,-76.4517494570465,0
+00125,Apprentice Street (north side of Craftsman),44.2431703023613,-76.4552644081414,0
+09064,Sadie Avenue (east side of Craftsman),44.2441734485329,-76.4592718798668,0
+09066,MacLean Court (south side of Gore),44.2591682542116,-76.4589675329626,0
+S00818,École Secondaire Catholique Marie-Rivier,44.2692643404007,-76.522145709023,0
+00726,Binnington Court (north side of Dalton),44.270287854597,-76.5286299493165,0
+00725,Grant Timmins Drive (west side of Binnington),44.2670874763281,-76.5288176201285,0
+00727,93 Grant Timmins Drive (south side),44.2674358282239,-76.525052888319,0
+00728,Dalton Avenue (east side of Grant Timmins),44.269299376756,-76.5230988152326,0
+00826,Sir John A Macdonald Blvd (south side of Dalton),44.2688107956201,-76.5206455159933,0
+00827,442 Dalton Avenue (south side),44.2688629310579,-76.5130614861847,0
+00830,St. Remy Place (south side of Dalton),44.2678578570486,-76.5103644412012,0
+09069,212 Dalton Avenue (south side),44.2677571903915,-76.5073524042965,0
+S00730,Warne Crescent (south side of Dalton),44.2656846810133,-76.5025735460222,0
+09050,Lappan's Lane (north side of John Counter),44.2594114132226,-76.5099402330817,0
+02050,MTO Office (north side of John Counter),44.2591478023678,-76.5148905850948,0
+00834,Aberfoyle Road (north side of John Counter),44.258994916454,-76.5226636268199,0
+00836,Indian Road (north side of John Counter),44.2589537613094,-76.5252795349807,0
+00838,VIA Rail Station (north side of John Counter),44.2587615642697,-76.5355206280947,0
+00822,Midland Avenue (south side of Cataraqui Woods),44.2672507558018,-76.5733402781189,0
+00824,Gardiners Road (south side of Cataraqui Woods),44.2671168968082,-76.5701756067575,0
+00819,Fortune Crescent (east side of Gardiners),44.2720246687532,-76.5689154714347,0
+S00712,INVISTA Centre,44.276088969782,-76.5683682169766,0
+00048,Assurant (west side of Gardiners),44.2720127664507,-76.569326100871,0
+00515,Cataraqui Woods Drive (west side of Gardiners),44.2674005404115,-76.5691244322807,0
+00839,VIA Rail Station (south side of John Counter),44.258585292846,-76.5354421734811,0
+S02014,Bus Terminal Transfer Point,44.259253833443,-76.5055829007179,0
+00847,Conacher Drive (east side of Wilson),44.2658907081932,-76.4875943306834,0
+00831,King's Crossing Mall (north side of Dalton),44.2658155225218,-76.5033047832549,0
+00829,259 Dalton Avenue (north side),44.2679691687227,-76.50759707205,0
+00828,295 Dalton Avenue (north side),44.2688993923367,-76.5120087191463,0
+00394,Old Quarry Road (west side of Aberfoyle),44.2574495449663,-76.5222241636366,0
+00393,Indian Road (north side of Old Quarry),44.2571797315032,-76.5257171541453,0
+00391,Portsmouth Avenue (north side of Champlain),44.2552565876395,-76.5296271443368,0
+00390,Mohawk Place (west side of Portsmouth),44.2532506305725,-76.529965940863,0
+00389,Portsmouth Avenue (south side of Glengarry),44.2523308005184,-76.5294097177685,0
+00388,McMichael Street (south side of Glengarry),44.252617629245,-76.5256693772972,0
+00387,Seaforth Road (south side of Glengarry),44.2527089081705,-76.5234133042396,0
+00386,Avenue Road (south side of Glengarry),44.2528630513698,-76.5199550986291,0
+00385,McMahon Avenue (west side of Avenue),44.2501842789352,-76.5191708877683,0
+00384,Jane Avenue (west side of Avenue),44.2467010114342,-76.5189684648067,0
+00761,Elmwood Street (west side of Sir John A Macdonald),44.2426466848702,-76.5195303875954,0
+00367,Leroy Grant Drive (south side of Concession),44.2411611601711,-76.5069585386664,0
+00369,Victoria Street (south side of Concession),44.2412377707661,-76.5031295176596,0
+00372,Concession Street (east side of Kingscourt),44.2417360749096,-76.5011083893479,0
+00243,Third Avenue (east side of Kingscourt),44.2445040307939,-76.5013541467489,0
+02027,Fifth Avenue (east side of Kingscourt),44.2463560122997,-76.5014826413245,0
+00242,Seventh Avenue (east side of Kingscourt),44.2474310752005,-76.5015463437886,0
+00241,Oak Street (east side of Kingscourt),44.2500781640411,-76.5017364453525,0
+00240,Kingscourt Avenue (south side of Kirkpatrick),44.2532447632403,-76.5013773646206,0
+00238,Theresa Crescent (south side of Kirkpatrick),44.2533269058913,-76.4979961048812,0
+00237,Theresa Crescent (north side of Kirkpatrick),44.2534605134279,-76.4979719650001,0
+00239,Kingscourt Avenue (north side of Kirkpatrick),44.2533689830453,-76.5013792924584,0
+00860,Oak Street (west side of Kingscourt),44.2500718776137,-76.5020055882633,0
+00861,Seventh Avenue (west side of Kingscourt),44.2476169019938,-76.5017201006413,0
+00862,Fifth Avenue (west side of Kingscourt),44.2463783081621,-76.501708617434,0
+00863,Third Avenue (west side of Kingscourt),44.2447502072901,-76.5015983115882,0
+00865,Concession Street (west side of Kingscourt),44.2414844501764,-76.5012134145946,0
+00762,Macdonnell Street (north side of Concession),44.2413182370365,-76.5056325215847,0
+00368,Leroy Grant Drive (north side of Concession),44.2420718539507,-76.5082879923285,0
+S00505,Kingston Centre Transfer Point Platform 3,44.2420690041036,-76.5169330872596,0
+S09042,Kingston Centre (south side of Princess),44.243137696758,-76.5162504650653,0
+S09040,Sir John A Macdonald Blvd (north side of King),44.2211906891317,-76.5129464864732,0
+S09038,Portsmouth Avenue (north side of King),44.22049658373,-76.5260701160879,0
+S09036,Centre 70 Park and Ride (east side of Days),44.2186947260052,-76.5691494941712,0
+S09034,Glen Castle Road (north side of Henderson),44.2281571403146,-76.5799096785486,0
+S09032,Conservatory Drive (east side of Bayridge),44.2327745631338,-76.5930195618422,0
+S09030,Hudson Drive (east side of Bayridge),44.2452698852867,-76.5903697069735,0
+S09015,Bayridge Centre (west side of Bayridge),44.2500152997673,-76.5899890847505,0
+S09031,Hudson Drive (west side of Bayridge),44.244625652209,-76.5905352495611,0
+S09033,Acadia Drive (west side of Bayridge),44.232162097469,-76.5932309534401,0
+S09035,Glen Castle Road (south side of Henderson),44.2281110398472,-76.5792749170215,0
+S09039,Portsmouth Avenue (south side of King),44.2203177977354,-76.5252993162722,0
+S09041,1055 Princess Street/Kingston Centre (north side),44.2437532637269,-76.516950102523,0
+00037,Duncan McArthur Hall (north side of driveway),44.2236300744117,-76.515356451273,0
+00708,Jean Royce Hall (south side of West Campus Lane),44.2244991939515,-76.5160109940917,0
+00706,John Orr Tower (east side of West Campus Lane),44.2256937827915,-76.5140521433205,0
+09080,St. Lawrence Avenue (south side of Stuart),44.2236171662808,-76.4990039449186,0
+00709,Earl Street (east side of University),44.2297598440201,-76.495513720438,0
+09072,King Street (west side of Albert),44.2226366512478,-76.4995586592705,0
+09079,1281 Midland Avenue (east side),44.2710511106998,-76.5741070546211,0
+09078,1281 Midland Avenue (west side),44.2710654437542,-76.5743742696942,0
+09083,321 Yonge Street (east side),44.2278347723186,-76.5181136783213,0
+09081,369 Dalton Avenue (north side),44.2688599135727,-76.5187147445977,0
+09077,Portsmouth Avenue (north side of Princess),44.2495168279857,-76.5293155051769,0
+00049,Brackenwood Crescent (east side of Birchwood),44.2678705137223,-76.5787906944752,0
+00710,Victoria Hall (north side of Bader),44.2250562552363,-76.4982229191811,0
+09084,Brackenwood Crescent (west side of Birchwood),44.2678746208549,-76.5790150780231,0
+09085,Station Street (south side of Bath),44.2398680839688,-76.6130278352649,0
+S02079,Cataraqui Centre Transfer Point Platform 3,44.2551948130131,-76.5725552290679,0
+S02081,Cataraqui Centre Transfer Point Platform 4,44.2549700103701,-76.5726018324495,0
+S02082,Cataraqui Centre Transfer Point Platform 5,44.2551935557276,-76.5727130603046,0
+S02083,Cataraqui Centre Transfer Point Platform 6,44.2549655679614,-76.5727946162225,0
+S02084,Cataraqui Centre Transfer Point Platform 7,44.2551927175373,-76.5729046706111,0
+S02085,Cataraqui Centre Transfer Point Platform 8,44.2549590300769,-76.573004918173,0
+09086,Churchill Street (west side of Mowat),44.2228504735977,-76.5203630458564,0
+09087,Churchill Street (east side of Mowat),44.2228345479817,-76.5201423503459,0
+S09088,Speers Boulevard (north side of Kildare),44.2205609567464,-76.6611500177533,0
+09088,Earl Street (west side of University),44.229952711612,-76.495698876679,0
+09089,Champlain Avenue (west side of Indian),44.2552751954645,-76.5269544068725,0
+00683,Innovation Drive at Highway 15 (south side),44.2718571145088,-76.4457978028805,0
+00814,695 Innovation Drive (south side),44.272069176659,-76.4392034243793,0
+S02040,Downtown Transfer Point Platform 6,44.2312110029161,-76.4842699002475,0
+S02035,Downtown Transfer Point Platform 1,44.231215948239,-76.4856899622828,0
+S02038,Downtown Transfer Point Platform 5,44.2315320298076,-76.484160264954,0
+S02041,Downtown Transfer Point Platform 7,44.2309929057956,-76.4842894300819,0
+09238,Sutherland Drive (east side of Montreal),44.2687309999019,-76.4790770597757,0
+09091,Bayridge Drive (south side of Hudson),44.2449844814837,-76.5906275343151,0
+09090,Bayridge Drive (north side of Hudson),44.2451193463058,-76.5903218463064,0
+09239,Discovery Avenue (north side of John Marks),44.2745874356479,-76.4421933330596,0
+09092,Morenz Crescent (north side of Conacher),44.2668233625591,-76.4841360412539,0
+09234,Waterside Way (west side of Highway 15),44.2692118696869,-76.4511357340962,0
+09241,Rose Abbey Drive (east side of Highway 15),44.2686675488949,-76.4514656458051,0
+09237,Sheppard Street (west side of Montreal),44.2730447463692,-76.4775864221156,0
+03005,Montreal Street (south side of Queen),44.2328857071698,-76.4855065662415,0
+03024,Barrie Street (south side of Queen),44.2336022760719,-76.4900762960315,0
